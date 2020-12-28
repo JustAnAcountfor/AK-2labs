@@ -1,4 +1,5 @@
 #include "calculator.h"
+//Jif
 
 int Calculator::Add (double a, double b)
 {
